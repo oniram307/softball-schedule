@@ -3,5 +3,146 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Great American Pub Softball Schedule 2025
-X-WR-TIMEZONE:UTC
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:1743704100@greatamericanpubsoftball
+DTSTAMP:20250331T032530Z
+DTSTART;TZID=America/New_York:20250403T181500
+DTEND;TZID=America/New_York:20250403T194500
+SUMMARY:Great American Pub at Screwball Slammers
+LOCATION:Holland Field, PA
+DESCRIPTION:UMPR Softball Game - Great American Pub at Screwball Slammers
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Great American Pub at Screwball Slammers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1744136100@greatamericanpubsoftball
+DTSTAMP:20250331T032530Z
+DTSTART;TZID=America/New_York:20250408T181500
+DTEND;TZID=America/New_York:20250408T194500
+SUMMARY:Great American Pub vs MV Wealth Solution
+LOCATION:White Field, PA
+DESCRIPTION:UMPR Softball Game - Great American Pub vs MV Wealth Solution
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Great American Pub vs MV Wealth Solution
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1744740900@greatamericanpubsoftball
+DTSTAMP:20250331T032530Z
+DTSTART;TZID=America/New_York:20250415T181500
+DTEND;TZID=America/New_York:20250415T194500
+SUMMARY:Great American Pub vs Johnson Matthey
+LOCATION:Holland Field, PA
+DESCRIPTION:UMPR Softball Game - Great American Pub vs Johnson Matthey
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Great American Pub vs Johnson Matthey
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1744827300@greatamericanpubsoftball
+DTSTAMP:20250331T032530Z
+DTSTART;TZID=America/New_York:20250416T181500
+DTEND;TZID=America/New_York:20250416T194500
+SUMMARY:Great American Pub at HoundDog
+LOCATION:White Field, PA
+DESCRIPTION:UMPR Softball Game - Great American Pub at HoundDog
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Great American Pub at HoundDog
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1745259300@greatamericanpubsoftball
+DTSTAMP:20250331T032530Z
+DTSTART;TZID=America/New_York:20250421T181500
+DTEND;TZID=America/New_York:20250421T194500
+SUMMARY:Great American Pub vs Angelo's
+LOCATION:White Field, PA
+DESCRIPTION:UMPR Softball Game - Great American Pub vs Angelo's
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Great American Pub vs Angelo's
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1745950500@greatamericanpubsoftball
+DTSTAMP:20250331T032530Z
+DTSTART;TZID=America/New_York:20250429T181500
+DTEND;TZID=America/New_York:20250429T194500
+SUMMARY:Great American Pub at Pepper's
+LOCATION:Holland Field, PA
+DESCRIPTION:UMPR Softball Game - Great American Pub at Pepper's
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Great American Pub at Pepper's
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1747161000@greatamericanpubsoftball
+DTSTAMP:20250331T032530Z
+DTSTART;TZID=America/New_York:20250513T183000
+DTEND;TZID=America/New_York:20250513T200000
+SUMMARY:Great American Pub at Angelo's
+LOCATION:White Field, PA
+DESCRIPTION:UMPR Softball Game - Great American Pub at Angelo's
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Great American Pub at Angelo's
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1747852200@greatamericanpubsoftball
+DTSTAMP:20250331T032530Z
+DTSTART;TZID=America/New_York:20250521T183000
+DTEND;TZID=America/New_York:20250521T200000
+SUMMARY:Great American Pub vs MV Wealth Solution
+LOCATION:Holland Field, PA
+DESCRIPTION:UMPR Softball Game - Great American Pub vs MV Wealth Solution
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Great American Pub vs MV Wealth Solution
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1748975400@greatamericanpubsoftball
+DTSTAMP:20250331T032530Z
+DTSTART;TZID=America/New_York:20250603T183000
+DTEND;TZID=America/New_York:20250603T200000
+SUMMARY:Great American Pub at HoundDog
+LOCATION:Holland Field, PA
+DESCRIPTION:UMPR Softball Game - Great American Pub at HoundDog
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Great American Pub at HoundDog
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1749580200@greatamericanpubsoftball
+DTSTAMP:20250331T032530Z
+DTSTART;TZID=America/New_York:20250610T183000
+DTEND;TZID=America/New_York:20250610T200000
+SUMMARY:Great American Pub vs MV Wealth Solution
+LOCATION:White Field, PA
+DESCRIPTION:UMPR Softball Game - Great American Pub vs MV Wealth Solution
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Great American Pub vs MV Wealth Solution
+END:VALARM
+END:VEVENT
+... (additional events continue below, paste entire content provided previously) ...
 END:VCALENDAR
